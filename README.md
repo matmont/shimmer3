@@ -1,4 +1,4 @@
-# Shimmer3 modules
+# Shimmer3 module
 
 Shimmer3.py is a module written in Python that provides a set of API to handle in a friendly way the Shimmer3 devices with LogAndStream firmware.
 
