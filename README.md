@@ -11,7 +11,7 @@ The module offers API to:
 
 An example of use:
 
-'''
+```
 from shimmer import shimmer, util
 
 TYPE = util.SHIMMER_GSRplus
@@ -36,4 +36,4 @@ try:
 except KeyboardInterrupt:
     shimmer.stop_bt_streaming()
     shimmer.disconnect(reset_obj_to_init=True)
-'''
+```
